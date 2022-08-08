@@ -1,2 +1,2 @@
-pruebas en general de git
-pruebas con rebase
+pruebas en general de local
+pruebas de rebase local
